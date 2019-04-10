@@ -5,11 +5,11 @@ public class PracticeCode {
 		double x = Math.sqrt(2);
 		double y = 2;
 		if (x * x == y) {
-			//they are equal
+			/* they are equal */
 			System.out.println("x * x and y are equal");
 		}
 		else {
-			//they are not equal
+			/* they are not equal */
 			System.out.println("x * x and y are not equal");
 		}
 	}
