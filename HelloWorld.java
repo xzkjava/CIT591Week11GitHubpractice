@@ -13,6 +13,7 @@ public class HelloWorld {
 	
 	public static void main(String[] args) {
 		HelloWorld a = new HelloWorld();
+		//prompt the user to type the name
 		System.out.println("Please enter your name:");
 		Scanner scanner = new Scanner(System.in);
 		String name = "";
